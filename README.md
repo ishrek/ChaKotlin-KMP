@@ -111,3 +111,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+Example:
+https://medium.com/@paca_/kmchat-exploring-the-future-of-kotlin-multiplatform-56ca738dde98
